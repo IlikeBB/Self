@@ -1,5 +1,8 @@
-## 132
-
+---
+layout: default
+title:  Modern guide to headless Raspberry-Pi setup with WiFi & VSCode Remote Development Environment for Python
+description: Steps below are specifically for linux - Ubuntu - however parts may work on other OSes too
+---
 You can use the [editor on GitHub](https://github.com/IlikeBB/Self/edit/gh-pages/index.md) to maintain and pre the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
