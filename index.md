@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  Dry Lab
-description: Deep Learning , Machine Learning, Clinical Data Analysis
+description: Machine Learning - Deep Learning - Clinical Data Analysis
 ---
 You can use the [editor on GitHub](https://github.com/IlikeBB/Self/edit/gh-pages/index.md) to maintain and pre the content for your website in Markdown files.
 
